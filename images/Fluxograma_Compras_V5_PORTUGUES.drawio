@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-12T20:00:24.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="QbuTOyc3h6FT2sECdgE1" version="12.6.8" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-12T20:01:29.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="vLS3Y2whRLqfgdeMl_0J" version="12.6.8" type="github" pages="2">
   <diagram name="FLUXOGRAMA COMPRAS" id="FLUXOGRAMA_COMPRAS">
     <mxGraphModel dx="782" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -327,15 +327,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="188" value="&lt;font style=&quot;font-size:11px;font-family:Calibri;color:#70ad47;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;Sim&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;" style="vsdxID=1069;edgeStyle=none;dashed=1;startFill=0;startArrow=oval;endFill=0;endArrow=block;startSize=3;endSize=3;strokeColor=#70ad47;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5079365079365079;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2" source="159" target="79" edge="1">
-          <mxGeometry x="0.3577" y="144" relative="1" as="geometry">
-            <mxPoint as="offset"/>
-            <Array as="points">
-              <mxPoint x="750" y="603.69"/>
-              <mxPoint x="804.17" y="603.69"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
+        <object label="&lt;font style=&quot;font-size:11px;font-family:Calibri;color:#70ad47;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;Sim&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;" id="188">
+          <mxCell style="vsdxID=1069;edgeStyle=none;dashed=1;startFill=0;startArrow=oval;endFill=0;endArrow=block;startSize=3;endSize=3;strokeColor=#70ad47;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5079365079365079;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2" source="159" target="79" edge="1">
+            <mxGeometry x="0.3577" y="144" relative="1" as="geometry">
+              <mxPoint as="offset"/>
+              <Array as="points">
+                <mxPoint x="750" y="603.69"/>
+                <mxPoint x="804.17" y="603.69"/>
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
         <mxCell id="189" value="" style="vsdxID=1002;edgeStyle=none;dashed=1;startFill=0;startArrow=oval;endFill=0;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2" source="79" target="141" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="2" as="offset"/>
